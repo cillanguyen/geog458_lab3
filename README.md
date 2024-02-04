@@ -1,5 +1,7 @@
 # GEOG 485 Lab 3: Web Map Application
 
+Student: Priscilla Nguyen
+
 In this lab, we will design a web map application. We will be designing two differnt
 types of map. One choropleth map and one proportional map.
 
